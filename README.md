@@ -32,3 +32,6 @@ python mult-lstm.py
 python mult-linear.py
 ```
 
+
+
+详细内容：[LSTM时间序列预测的原理以及代码实现-CSDN博客](https://blog.csdn.net/cdyyyyyyy/article/details/140430635)
